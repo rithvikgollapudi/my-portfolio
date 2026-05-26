@@ -1,0 +1,39 @@
+/* Add these to your existing CSS */
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--eerie-black-1);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--orange-yellow-crayola);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ffb700;
+}
+
+/* Button Hover Effects */
+.btn-resume, .contact-cta, .form-btn, .project-link-btn {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+.btn-resume:hover, .contact-cta:hover, .project-link-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(255,215,0,0.3);
+}
+
+/* Section Transition */
+.about, .resume, .portfolio, .contact {
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+/* Glassmorphism Effect (optional for cards) */
+.glass-effect {
+  background: rgba(18, 18, 18, 0.7);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,215,0,0.2);
+}
