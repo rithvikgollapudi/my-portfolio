@@ -1,44 +1,49 @@
-# vCard - Personal portfolio
+# Rithvik Gollapudi | AI & Data Science Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Hi there! 
+Welcome to my portfolio repository.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
 
-## Demo
+I'm Rithvik Gollapudi, an **Artificial Intelligence & Data Science** undergraduate at Vignan's Institute of Information Technology.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+I build things that solve real problems:
+-  Machine Learning models with 94% accuracy
+-  Data analytics pipelines
+-  Full-stack web applications
 
-## Prerequisites
+## Featured Projects
 
-Before you begin, ensure you have met the following requirements:
+| Project | What it does |
+|---------|-------------|
+| **Transformer Guardian** | Predicts power transformer failures with 94% accuracy |
+| **LivWell** | AI-powered livability analysis for smart cities |
+| **Mixora AI** | Concrete mix optimization using XGBoost |
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Tech I Work With
 
-## Installing vCard
+- **Languages:** Python, C, Java, SQL, JavaScript
+- **ML:** Scikit-learn, XGBoost, Random Forest
+- **Data:** Pandas, NumPy, Matplotlib
+- **Web:** Flask, HTML/CSS, Bootstrap
 
-To install **vCard**, follow these steps:
+## Beyond Coding
 
-Linux and macOS:
+- Organized 10+ college events and workshops
+- Led volunteer teams for national-level tech fests
+- National hackathon finalist (Piston Cup 2K25)
+- Top 5 academic rank in my department
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## Connect With Me
 
-Windows:
+- Email: rithvikgollapudi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rithvik-gollapudi-a01a632b6/
+- GitHub: https://github.com/rithvikgollapudi
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## Live Website
 
-## Contact
+Visit my portfolio: *(add your Vercel URL here after deployment)*
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+---
 
-## License
-
-MIT
+*Thanks for stopping by! Feel free to reach out.*
